@@ -1,18 +1,15 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shoaib%20Ismail&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="./assets/header.svg" alt="Shoaib Ismail" width="100%"/>
 
-<a href="https://github.com/shoaibismailgit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=8%2B+Years+Building+Scalable+Systems;Full-Stack+%7C+Backend+%7C+AI+Agents;Python+%C2%B7+TypeScript+%C2%B7+Go;Cloud-Native+%7C+Kubernetes+%7C+AWS;Turning+Complex+Problems+into+Clean+Code" alt="Typing SVG" />
-</a>
+<img src="./assets/typing.svg" alt="typing animation" width="700"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shoaibismailgit&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/shoaibismailgit?style=flat-square&color=0e75b6&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-10-0e75b6?style=flat-square&logo=github)
-![Since](https://img.shields.io/badge/Engineering%20Since-2018-0e75b6?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/shoaibismailgit?style=for-the-badge&logo=github&color=0e75b6)
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-0e75b6?style=for-the-badge)
+![Since](https://img.shields.io/badge/Engineering%20Since-2018-0e75b6?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Full--Stack%20%7C%20AI-0e75b6?style=for-the-badge)
 
 </div>
 
@@ -28,9 +25,6 @@ class ShoaibIsmail:
     languages  = ["Python", "TypeScript", "Go", "SQL"]
     cloud      = ["AWS", "Docker", "Kubernetes", "Terraform"]
     philosophy = "Make it work, make it right, make it fast."
-
-    def current_mission(self):
-        return "Building reliable, scalable and intelligent software."
 ```
 
 I design and ship production systems end to end: from polished React/Next.js frontends to high-throughput Go and Python services, cloud infrastructure and LLM-powered agents.
@@ -39,22 +33,15 @@ I design and ship production systems end to end: from polished React/Next.js fro
 
 ## 📈 Career Timeline
 
-```mermaid
-timeline
-    title Professional Journey
-    2018 : Junior Software Developer
-         : Python, Django, PostgreSQL
-    2019 : Software Engineer
-         : Node.js, React, MongoDB, AWS
-    2021 : Full-Stack Engineer
-         : TypeScript, Next.js, NestJS, GraphQL
-    2023 : Senior Backend Engineer
-         : Go, Kafka, Kubernetes, Terraform
-    2025 : Senior Engineer, AI Platforms
-         : LLM Agents, RAG, FastAPI, pgvector
-```
+| Year | Role | Stack |
+|------|------|-------|
+| **2025 – Now** | Senior Engineer, AI Platforms | Python · FastAPI · LangChain · pgvector |
+| **2023 – 2025** | Senior Backend Engineer | Go · Kafka · Kubernetes · Terraform |
+| **2021 – 2023** | Full-Stack Engineer | TypeScript · Next.js · NestJS · GraphQL |
+| **2019 – 2021** | Software Engineer | Node.js · React · MongoDB · AWS |
+| **2018 – 2019** | Junior Software Developer | Python · Django · PostgreSQL |
 
-📄 Full details → [EXPERIENCE.md](./EXPERIENCE.md)
+📄 Full details: [EXPERIENCE.md](./EXPERIENCE.md)
 
 ---
 
@@ -62,25 +49,46 @@ timeline
 
 <div align="center">
 
-**Languages**
+**Languages**<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/>&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,bash,postgres&perline=7" alt="languages"/>
+<br/><br/>**Frontend & Backend**<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="48" height="48"/>&nbsp;&nbsp;
 
-**Frontend & Backend**
+<br/><br/>**Databases & Messaging**<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="48" height="48"/>&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,fastapi,django,graphql&perline=8" alt="web"/>
-
-**Data & Messaging**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,kafka,rabbitmq&perline=6" alt="data"/>
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx,linux,grafana,prometheus&perline=9" alt="devops"/>
+<br/><br/>**Cloud & DevOps**<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="48" height="48"/>&nbsp;&nbsp;
 
 </div>
 
-📚 Full breakdown → [TECH_STACK.md](./TECH_STACK.md)
+📚 Full breakdown: [TECH_STACK.md](./TECH_STACK.md)
 
 ---
 
@@ -89,56 +97,34 @@ timeline
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **AI Agent Platform** | Multi-agent workflows with tool calling, memory and RAG | Python · FastAPI · pgvector · Redis |
-| ⚡ **Event-Driven Order Platform** | High-volume order & payment event processing | Go · Kafka · PostgreSQL · K8s |
+| ⚡ **Event-Driven Order Platform** | High-volume order and payment event processing | Go · Kafka · PostgreSQL · K8s |
 | 📊 **Operations Dashboard** | Real-time analytics and admin portal with RBAC | Next.js · NestJS · GraphQL |
 | 🔔 **Realtime Notification Service** | WebSocket messaging backend | Node.js · Redis · MongoDB · AWS |
 
-🗂️ More → [PROJECTS.md](./PROJECTS.md) · Repos: [`vagent_co`](https://github.com/shoaibismailgit/vagent_co) · [`pyquil`](https://github.com/shoaibismailgit/pyquil) · [`exatorrent`](https://github.com/shoaibismailgit/exatorrent)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shoaibismailgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibismailgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs"/>
-
-<img src="https://streak-stats.demolab.com?user=shoaibismailgit&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibismailgit&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibismailgit/shoaibismailgit/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaibismailgit/shoaibismailgit/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/shoaibismailgit/shoaibismailgit/output/github-snake.svg" />
-  </picture>
-</div>
+🗂️ More: [PROJECTS.md](./PROJECTS.md) · Repos: [`vagent_co`](https://github.com/shoaibismailgit/vagent_co) · [`pyquil`](https://github.com/shoaibismailgit/pyquil) · [`exatorrent`](https://github.com/shoaibismailgit/exatorrent)
 
 ---
 
 ## 🔭 Currently Exploring
 
-- 🤖 Autonomous AI agents & tool-calling workflows
+- 🤖 Autonomous AI agents and tool-calling workflows
 - 🦀 Rust and WebAssembly for performance-critical tooling
 - ⚛️ Quantum programming with Python
-- 🏗️ Distributed systems & platform engineering
+- 🏗️ Distributed systems and platform engineering
 
-## 🤝 Connect
+<!--
+OPTIONAL: contribution snake.
+Enable only AFTER the "Generate Snake" workflow has run once (Actions tab), then remove this comment wrapper.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shoaibismailgit/shoaibismailgit/output/github-snake-dark.svg" alt="snake"/>
+</div>
+-->
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shoaibismailgit-181717?style=for-the-badge&logo=github)](https://github.com/shoaibismailgit)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
